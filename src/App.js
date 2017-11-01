@@ -1,12 +1,11 @@
 import React, { Component } from 'react';
-import { Button } from 'antd';
+import Home from './Home';
 
 class Index extends Component {
   render() {
     return (
       <div>
-        <Button>Click me!</Button>
-        <h1>Hello world.</h1>
+        <h2>HELLO HOME</h2>
       </div>
     )
   }
