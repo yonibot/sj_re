@@ -3,3 +3,6 @@ dist
 
 # Logs
 yarn-error.log
+
+# Config
+keys.js
